@@ -1,0 +1,6 @@
+c:\users\chuck\onedrive\documents\visual studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\chuck\OneDrive\Documents\Visual Studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\chuck\OneDrive\Documents\Visual Studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\chuck\OneDrive\Documents\Visual Studio 2015\Projects\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\chuck\OneDrive\Documents\Visual Studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\chuck\OneDrive\Documents\Visual Studio 2015\Projects\Lab12\Lab12\obj\Debug\Lab12.pdb
